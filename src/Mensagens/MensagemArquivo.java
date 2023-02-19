@@ -1,5 +1,7 @@
 package Mensagens;
 
+import Usuario.Usuario;
+
 public class MensagemArquivo extends Mensagen {
     
     private String nomeArquivo;

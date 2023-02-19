@@ -1,4 +1,4 @@
-package Mensagens;
+package Usuario;
 
 public class Usuario {
     private  String nome;

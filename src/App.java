@@ -1,6 +1,6 @@
 import Mensagens.MensagemTexto;
 import Mensagens.Mensagen;
-import Mensagens.Usuario;
+import Usuario.Usuario;
 
 public class App {
     public static void main(String[] args) throws Exception {

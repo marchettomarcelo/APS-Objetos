@@ -1,5 +1,7 @@
 package Mensagens;
 
+import Usuario.Usuario;
+
 public abstract class Mensagen {
     
     private String data;
